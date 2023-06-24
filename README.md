@@ -20,7 +20,7 @@ To run the project locally, please follow these steps:
 - `index.html`: The HTML file containing the game canvas and necessary scripts.
 - `game.js`: The JavaScript file that defines the game scene and its logic.
 - `assets/`: The directory containing the game assets (images).
-
+![Game in action](game.png)
 ## Usage
 - Use the arrow keys to control the myne sprite.
 - Collect the book sprite to increase the score.

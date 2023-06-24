@@ -20,6 +20,8 @@ To run the project locally, please follow these steps:
 - `index.html`: The HTML file containing the game canvas and necessary scripts.
 - `game.js`: The JavaScript file that defines the game scene and its logic.
 - `assets/`: The directory containing the game assets (images).
+
+## Project during execution
 ![Game in action](game.png)
 ## Usage
 - Use the arrow keys to control the myne sprite.
